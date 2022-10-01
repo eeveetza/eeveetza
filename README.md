@@ -18,7 +18,7 @@
 |ITU-R P.452-17              |[MATLAB/Octave](https://github.com/eeveetza/p452)                    |[Python](https://github.com/eeveetza/Py452) |[Java](https://github.com/eeveetza/javaP452) |
 |ITU-R P.528-5             |[MATLAB/Octave](https://github.com/eeveetza/p528)         |   |[Java](https://github.com/eeveetza/javaP528) |
 |ITU-R P.1411-11             |                  |              |[Java](https://github.com/eeveetza/javaP1411) |
-|ITU-R P.1546-6             |[MATLAB/Octave](https://github.com/eeveetza/p1546)                    |[Python](https://github.com/eeveetza/Py1546) |[Java](https://github.com/eeveetza/java1546) |
+|ITU-R P.1546-6             |[MATLAB/Octave](https://github.com/eeveetza/p1546)                    |[Python](https://github.com/eeveetza/Py1546) |[Java](https://github.com/eeveetza/javaP1546) |
 |ITU-R P.1812-6              |[MATLAB/Octave](https://github.com/eeveetza/p1812)                    |[Python](https://github.com/eeveetza/Py1812) |[Java](https://github.com/eeveetza/javaP1812) |
 |ITU-R P.2001-4              |[MATLAB/Octave](https://github.com/eeveetza/p2001)                    |[Python](https://github.com/eeveetza/Py2001) |[Java](https://github.com/eeveetza/javaP2001) |
 |ITU-R P.2108-1            |                  |              |[Java](https://github.com/eeveetza/javaP2108) |
