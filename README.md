@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning my fifth human language
 
-💞️ I’m looking to collaborate on using programming languages in modeling electromagnetic waves
+💞️ I’m looking to collaborate on using computer languages in modeling electromagnetic waves
 
 <!-- 📫 How to reach me -->
 
