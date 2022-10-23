@@ -22,7 +22,7 @@
 |ITU-R P.1812-6              |[MATLAB/Octave](https://github.com/eeveetza/p1812)                    |[Python](https://github.com/eeveetza/Py1812) | |
 |ITU-R P.2001-4              |[MATLAB/Octave](https://github.com/eeveetza/p2001)                    |[Python](https://github.com/eeveetza/Py2001) |[Java](https://github.com/eeveetza/javaP2001) |
 |ITU-R P.2108-1            |      [MATLAB/Octave](https://github.com/eeveetza/p2108)              |              |[Java](https://github.com/eeveetza/javaP2108) |
-|ITU-R P.2109-1             |                  |              |[Java](https://github.com/eeveetza/javaP2109) |
+|ITU-R P.2109-1             |    [MATLAB/Octave](https://github.com/eeveetza/p2109)                 |              |[Java](https://github.com/eeveetza/javaP2109) |
 |ITU-R M.2135-1             |                  |              |[Java](https://github.com/eeveetza/javaM2135) |
 |WINNER II             |                  |              |[Java](https://github.com/eeveetza/javaWinner2) |
 
