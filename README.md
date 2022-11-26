@@ -24,7 +24,7 @@
 |ITU-R P.2108-1            |      [MATLAB/Octave](https://github.com/eeveetza/p2108)              |              |[Java](https://github.com/eeveetza/javaP2108) |
 |ITU-R P.2109-1             |    [MATLAB/Octave](https://github.com/eeveetza/p2109)                 |              |[Java](https://github.com/eeveetza/javaP2109) |
 |ITU-R M.2135-1             |     [MATLAB/Octave](https://github.com/eeveetza/m2135)              |              |[Java](https://github.com/eeveetza/javaM2135) |
-|WINNER II             |                  |              |[Java](https://github.com/eeveetza/javaWinner2) |
+|WINNER II             |     [MATLAB/Octave](https://github.com/eeveetza/winner2)             |              |[Java](https://github.com/eeveetza/javaWinner2) |
 
 <!---
 ## MATLAB/Octave
