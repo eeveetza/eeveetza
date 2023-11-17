@@ -15,7 +15,7 @@
 
 |ITU-R P.368-10              | [MATLAB/Octave](https://github.com/eeveetza/LFMFSmoothEarth)        |         |             |            |
 |----------------------------|---------------------------------------------------------------------|---------|-------------|------------|
-|ITU-R P.452-17              |[MATLAB/Octave](https://github.com/eeveetza/p452)                    |[Python](https://github.com/eeveetza/Py452) |[Java](https://github.com/eeveetza/javaP452) |[C++](https://github.com/eeveetza/cppP452) |
+|ITU-R P.452-17              |[MATLAB/Octave](https://github.com/eeveetza/p452)                    |[Python](https://github.com/eeveetza/Py452) |[Java](https://github.com/eeveetza/javaP452) |[C++](https://github.com/eeveetza/cpp452) |
 |ITU-R P.528-5             |[MATLAB/Octave](https://github.com/eeveetza/p528)         |   |[Java](https://github.com/eeveetza/javaP528) |            |
 |ITU-R P.1411-11             |[MATLAB/Octave](https://github.com/eeveetza/p1411)              |              |[Java](https://github.com/eeveetza/javaP1411) |            |
 |ITU-R P.1546-6             |[MATLAB/Octave](https://github.com/eeveetza/p1546)                    |[Python](https://github.com/eeveetza/Py1546) |[Java](https://github.com/eeveetza/javaP1546) |            |
