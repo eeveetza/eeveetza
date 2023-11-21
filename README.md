@@ -13,7 +13,7 @@
 
 ## Software Implementations of Electromagnetic Propagation Models
 
-|ITU-R P.368-10              | [MATLAB/Octave](https://github.com/eeveetza/LFMFSmoothEarth)        |         |             |            |
+|ITU-R P.368-10              | [MATLAB/Octave](https://github.com/eeveetza/LFMFSmoothEarth)        |         |    [Java](https://github.com/eeveetza/javaP368)         |            |
 |----------------------------|---------------------------------------------------------------------|---------|-------------|------------|
 |ITU-R P.452-17              |[MATLAB/Octave](https://github.com/eeveetza/p452)                    |[Python](https://github.com/eeveetza/Py452) |[Java](https://github.com/eeveetza/javaP452) |[C++](https://github.com/eeveetza/cpp452) |
 |ITU-R P.528-5             |[MATLAB/Octave](https://github.com/eeveetza/p528)         |   |[Java](https://github.com/eeveetza/javaP528) |            |
