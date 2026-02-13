@@ -17,7 +17,7 @@
 |----------------------------|---------------------------------------------------------------------|---------|-------------|------------|
 |ITU-R P.452              |[MATLAB/Octave](https://github.com/eeveetza/p452)                    |[Python](https://github.com/eeveetza/Py452) |[Java](https://github.com/eeveetza/javaP452) |[C++](https://github.com/eeveetza/cpp452) |
 |ITU-R P.452 <br />hydrometeor            |[MATLAB/Octave](https://github.com/eeveetza/p452-hydrometeor)  |         |           |         |
-|ITU-R P.528             |[MATLAB/Octave](https://github.com/eeveetza/p528)         |   |[Java](https://github.com/eeveetza/javaP528) |            |
+|ITU-R P.528             |[MATLAB/Octave](https://github.com/eeveetza/p528)         |  [Python](https://github.com/eeveetza/Py528) |[Java](https://github.com/eeveetza/javaP528) |            |
 |ITU-R P.1411             |[MATLAB/Octave](https://github.com/eeveetza/p1411)              |              |[Java](https://github.com/eeveetza/javaP1411) |            |
 |ITU-R P.1546            |[MATLAB/Octave](https://github.com/eeveetza/p1546)                    |[Python](https://github.com/eeveetza/Py1546) |[Java](https://github.com/eeveetza/javaP1546) |            |
 |ITU-R P.1812              |[MATLAB/Octave](https://github.com/eeveetza/p1812)                    |[Python](https://github.com/eeveetza/Py1812) | |            |
